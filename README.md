@@ -6,6 +6,7 @@ I'm a Full Stack Developer studying at Artevelde University of Applied Scienses.
 
 ## Accounts
 > [AlecMeganck99] (https://github.com/alecmeganck99)
+
 > [Jaxxpected] (https://github.com/Jaxxpected)
 
 ## My Values
